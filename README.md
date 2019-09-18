@@ -4,5 +4,5 @@ You have the ability to upload item information like an image, title, price, des
 
 # What I Learned
 
-* Core react native Animation properites (PanResponder, Animated)
+* Core react native Animation animation systems (PanResponder, Animated, LayoutAnimation)
 * How to adapt animations to the dimension of the user's device
