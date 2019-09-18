@@ -7,4 +7,6 @@ You have the ability to upload item information like an image, title, price, des
 * Core react native animation systems (PanResponder, Animated, LayoutAnimation)
 * How to adapt animations to the dimension of the user's device
 
+View on Expo
+
 | [View Snack](https://snack.expo.io/@koladeg/swipeapp) |
